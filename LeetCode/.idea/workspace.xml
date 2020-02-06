@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e64fff6-a40d-4ccf-aa90-bd0eebed2dad" name="Default Changelist" comment="" />
+    <list default="true" id="0e64fff6-a40d-4ccf-aa90-bd0eebed2dad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnionFind/NumIslands200BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnionFind/NumIslands200DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnionFind/NumIslands200UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnionFind/NumIslands200myUnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +25,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1VZbAVEiAx5hcAeoUpVGl1m70IF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -30,23 +46,10 @@
       <recent name="DFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Circle">
+  <component name="RunManager" selected="Application.NumIslands200myUnionFind">
     <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Circle" />
       <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindMin" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumIslands200myUnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionFind.NumIslands200myUnionFind" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnionFind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchInsert" />
       <module name="LeetCode" />
@@ -92,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumIslands200myUnionFind" />
         <item itemvalue="Application.Circle" />
         <item itemvalue="Application.LevelOrder" />
         <item itemvalue="Application.SearchInsert" />
         <item itemvalue="Application.FindMin2" />
-        <item itemvalue="Application.FindMin" />
       </list>
     </recent_temporary>
   </component>
@@ -138,99 +154,103 @@
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
     <state x="901" y="299" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/48.23.1632.1027@48.23.1632.1027" timestamp="1579121572299" />
-    <state width="1232" height="190" key="GridCell.Tab.0.bottom" timestamp="1580164658461">
-      <screen x="44" y="23" width="1636" height="1027" />
-    </state>
-    <state width="1232" height="190" key="GridCell.Tab.0.bottom/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658461" />
-    <state width="1358" height="329" key="GridCell.Tab.0.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739214" />
-    <state width="1232" height="344" key="GridCell.Tab.0.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110516" />
-    <state width="1232" height="190" key="GridCell.Tab.0.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1579663461509" />
-    <state width="1232" height="190" key="GridCell.Tab.0.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1579713711875" />
-    <state width="1232" height="190" key="GridCell.Tab.0.center" timestamp="1580164658459">
-      <screen x="44" y="23" width="1636" height="1027" />
-    </state>
-    <state width="1232" height="190" key="GridCell.Tab.0.center/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658459" />
-    <state width="1358" height="329" key="GridCell.Tab.0.center/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739212" />
-    <state width="1232" height="344" key="GridCell.Tab.0.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
-    <state width="1232" height="190" key="GridCell.Tab.0.center/50.23.1630.1027@50.23.1630.1027" timestamp="1579663461507" />
-    <state width="1232" height="190" key="GridCell.Tab.0.center/51.23.1629.1027@51.23.1629.1027" timestamp="1579713711875" />
-    <state width="1232" height="190" key="GridCell.Tab.0.left" timestamp="1580164658458">
-      <screen x="44" y="23" width="1636" height="1027" />
-    </state>
-    <state width="1232" height="190" key="GridCell.Tab.0.left/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658458" />
-    <state width="1358" height="329" key="GridCell.Tab.0.left/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739211" />
-    <state width="1232" height="344" key="GridCell.Tab.0.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
-    <state width="1232" height="190" key="GridCell.Tab.0.left/50.23.1630.1027@50.23.1630.1027" timestamp="1579663461506" />
-    <state width="1232" height="190" key="GridCell.Tab.0.left/51.23.1629.1027@51.23.1629.1027" timestamp="1579713711874" />
-    <state width="1232" height="190" key="GridCell.Tab.0.right" timestamp="1580164658460">
-      <screen x="44" y="23" width="1636" height="1027" />
-    </state>
-    <state width="1232" height="190" key="GridCell.Tab.0.right/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658460" />
-    <state width="1358" height="329" key="GridCell.Tab.0.right/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739213" />
-    <state width="1232" height="344" key="GridCell.Tab.0.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
-    <state width="1232" height="190" key="GridCell.Tab.0.right/50.23.1630.1027@50.23.1630.1027" timestamp="1579663461508" />
-    <state width="1232" height="190" key="GridCell.Tab.0.right/51.23.1629.1027@51.23.1629.1027" timestamp="1579713711875" />
-    <state width="1232" height="344" key="GridCell.Tab.1.bottom" timestamp="1579831110518">
-      <screen x="48" y="23" width="1632" height="1027" />
-    </state>
-    <state width="1358" height="329" key="GridCell.Tab.1.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739216" />
-    <state width="1232" height="344" key="GridCell.Tab.1.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110518" />
-    <state width="1232" height="344" key="GridCell.Tab.1.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1579662246349" />
-    <state width="1232" height="344" key="GridCell.Tab.1.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829517" />
-    <state width="1232" height="344" key="GridCell.Tab.1.center" timestamp="1579831110517">
-      <screen x="48" y="23" width="1632" height="1027" />
-    </state>
-    <state width="1358" height="329" key="GridCell.Tab.1.center/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739215" />
-    <state width="1232" height="344" key="GridCell.Tab.1.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110517" />
-    <state width="1232" height="344" key="GridCell.Tab.1.center/50.23.1630.1027@50.23.1630.1027" timestamp="1579662246348" />
-    <state width="1232" height="344" key="GridCell.Tab.1.center/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829516" />
-    <state width="1232" height="344" key="GridCell.Tab.1.left" timestamp="1579831110516">
-      <screen x="48" y="23" width="1632" height="1027" />
-    </state>
-    <state width="1358" height="329" key="GridCell.Tab.1.left/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739214" />
-    <state width="1232" height="344" key="GridCell.Tab.1.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110516" />
-    <state width="1232" height="344" key="GridCell.Tab.1.left/50.23.1630.1027@50.23.1630.1027" timestamp="1579662246348" />
-    <state width="1232" height="344" key="GridCell.Tab.1.left/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829516" />
-    <state width="1232" height="344" key="GridCell.Tab.1.right" timestamp="1579831110517">
-      <screen x="48" y="23" width="1632" height="1027" />
-    </state>
-    <state width="1358" height="329" key="GridCell.Tab.1.right/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739215" />
-    <state width="1232" height="344" key="GridCell.Tab.1.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110517" />
-    <state width="1232" height="344" key="GridCell.Tab.1.right/50.23.1630.1027@50.23.1630.1027" timestamp="1579662246349" />
-    <state width="1232" height="344" key="GridCell.Tab.1.right/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829517" />
-    <state width="1232" height="344" key="GridCell.Tab.2.bottom" timestamp="1579831110520">
-      <screen x="48" y="23" width="1632" height="1027" />
-    </state>
-    <state width="1358" height="329" key="GridCell.Tab.2.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739218" />
-    <state width="1232" height="344" key="GridCell.Tab.2.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110520" />
-    <state width="1232" height="344" key="GridCell.Tab.2.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1579662246350" />
-    <state width="1232" height="344" key="GridCell.Tab.2.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829518" />
-    <state width="1232" height="344" key="GridCell.Tab.2.center" timestamp="1579831110519">
-      <screen x="48" y="23" width="1632" height="1027" />
-    </state>
-    <state width="1358" height="329" key="GridCell.Tab.2.center/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739217" />
-    <state width="1232" height="344" key="GridCell.Tab.2.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110519" />
-    <state width="1232" height="344" key="GridCell.Tab.2.center/50.23.1630.1027@50.23.1630.1027" timestamp="1579662246350" />
-    <state width="1232" height="344" key="GridCell.Tab.2.center/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829517" />
-    <state width="1232" height="344" key="GridCell.Tab.2.left" timestamp="1579831110518">
-      <screen x="48" y="23" width="1632" height="1027" />
-    </state>
-    <state width="1358" height="329" key="GridCell.Tab.2.left/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739216" />
-    <state width="1232" height="344" key="GridCell.Tab.2.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110518" />
-    <state width="1232" height="344" key="GridCell.Tab.2.left/50.23.1630.1027@50.23.1630.1027" timestamp="1579662246349" />
-    <state width="1232" height="344" key="GridCell.Tab.2.left/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829517" />
-    <state width="1232" height="344" key="GridCell.Tab.2.right" timestamp="1579831110519">
-      <screen x="48" y="23" width="1632" height="1027" />
-    </state>
-    <state width="1358" height="329" key="GridCell.Tab.2.right/47.23.1633.1027@47.23.1633.1027" timestamp="1578868739217" />
-    <state width="1232" height="344" key="GridCell.Tab.2.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110519" />
-    <state width="1232" height="344" key="GridCell.Tab.2.right/50.23.1630.1027@50.23.1630.1027" timestamp="1579662246350" />
-    <state width="1232" height="344" key="GridCell.Tab.2.right/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829518" />
-    <state x="986" y="374" width="672" height="676" key="search.everywhere.popup" timestamp="1580788664097">
+    <state width="1232" height="294" key="GridCell.Tab.0.bottom" timestamp="1580961943585">
       <screen x="47" y="23" width="1633" height="1027" />
     </state>
-    <state x="986" y="374" width="672" height="676" key="search.everywhere.popup/47.23.1633.1027@47.23.1633.1027" timestamp="1580788664097" />
-    <state x="986" y="374" width="670" height="676" key="search.everywhere.popup/48.23.1632.1027@48.23.1632.1027" timestamp="1578870319310" />
+    <state width="1232" height="190" key="GridCell.Tab.0.bottom/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658461" />
+    <state width="1232" height="294" key="GridCell.Tab.0.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943585" />
+    <state width="1232" height="344" key="GridCell.Tab.0.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110516" />
+    <state width="1232" height="294" key="GridCell.Tab.0.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864058" />
+    <state width="1232" height="190" key="GridCell.Tab.0.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1579713711875" />
+    <state width="1232" height="294" key="GridCell.Tab.0.center" timestamp="1580961943585">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="190" key="GridCell.Tab.0.center/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658459" />
+    <state width="1232" height="294" key="GridCell.Tab.0.center/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943585" />
+    <state width="1232" height="344" key="GridCell.Tab.0.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
+    <state width="1232" height="294" key="GridCell.Tab.0.center/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864057" />
+    <state width="1232" height="190" key="GridCell.Tab.0.center/51.23.1629.1027@51.23.1629.1027" timestamp="1579713711875" />
+    <state width="1232" height="294" key="GridCell.Tab.0.left" timestamp="1580961943584">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="190" key="GridCell.Tab.0.left/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658458" />
+    <state width="1232" height="294" key="GridCell.Tab.0.left/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943584" />
+    <state width="1232" height="344" key="GridCell.Tab.0.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
+    <state width="1232" height="294" key="GridCell.Tab.0.left/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864056" />
+    <state width="1232" height="190" key="GridCell.Tab.0.left/51.23.1629.1027@51.23.1629.1027" timestamp="1579713711874" />
+    <state width="1232" height="294" key="GridCell.Tab.0.right" timestamp="1580961943585">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="190" key="GridCell.Tab.0.right/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658460" />
+    <state width="1232" height="294" key="GridCell.Tab.0.right/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943585" />
+    <state width="1232" height="344" key="GridCell.Tab.0.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
+    <state width="1232" height="294" key="GridCell.Tab.0.right/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864058" />
+    <state width="1232" height="190" key="GridCell.Tab.0.right/51.23.1629.1027@51.23.1629.1027" timestamp="1579713711875" />
+    <state width="1232" height="294" key="GridCell.Tab.1.bottom" timestamp="1580961943587">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.1.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943587" />
+    <state width="1232" height="344" key="GridCell.Tab.1.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110518" />
+    <state width="1232" height="294" key="GridCell.Tab.1.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864298" />
+    <state width="1232" height="344" key="GridCell.Tab.1.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829517" />
+    <state width="1232" height="294" key="GridCell.Tab.1.center" timestamp="1580961943586">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.1.center/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943586" />
+    <state width="1232" height="344" key="GridCell.Tab.1.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110517" />
+    <state width="1232" height="294" key="GridCell.Tab.1.center/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864297" />
+    <state width="1232" height="344" key="GridCell.Tab.1.center/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829516" />
+    <state width="1232" height="294" key="GridCell.Tab.1.left" timestamp="1580961943586">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.1.left/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943586" />
+    <state width="1232" height="344" key="GridCell.Tab.1.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110516" />
+    <state width="1232" height="294" key="GridCell.Tab.1.left/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864296" />
+    <state width="1232" height="344" key="GridCell.Tab.1.left/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829516" />
+    <state width="1232" height="294" key="GridCell.Tab.1.right" timestamp="1580961943586">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.1.right/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943586" />
+    <state width="1232" height="344" key="GridCell.Tab.1.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110517" />
+    <state width="1232" height="294" key="GridCell.Tab.1.right/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864297" />
+    <state width="1232" height="344" key="GridCell.Tab.1.right/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829517" />
+    <state width="1232" height="294" key="GridCell.Tab.2.bottom" timestamp="1580961943589">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.2.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943589" />
+    <state width="1232" height="344" key="GridCell.Tab.2.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110520" />
+    <state width="1232" height="294" key="GridCell.Tab.2.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1580943863855" />
+    <state width="1232" height="344" key="GridCell.Tab.2.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829518" />
+    <state width="1232" height="294" key="GridCell.Tab.2.center" timestamp="1580961943588">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.2.center/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943588" />
+    <state width="1232" height="344" key="GridCell.Tab.2.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110519" />
+    <state width="1232" height="294" key="GridCell.Tab.2.center/50.23.1630.1027@50.23.1630.1027" timestamp="1580943863854" />
+    <state width="1232" height="344" key="GridCell.Tab.2.center/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829517" />
+    <state width="1232" height="294" key="GridCell.Tab.2.left" timestamp="1580961943588">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.2.left/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943588" />
+    <state width="1232" height="344" key="GridCell.Tab.2.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110518" />
+    <state width="1232" height="294" key="GridCell.Tab.2.left/50.23.1630.1027@50.23.1630.1027" timestamp="1580943863854" />
+    <state width="1232" height="344" key="GridCell.Tab.2.left/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829517" />
+    <state width="1232" height="294" key="GridCell.Tab.2.right" timestamp="1580961943589">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.2.right/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943589" />
+    <state width="1232" height="344" key="GridCell.Tab.2.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110519" />
+    <state width="1232" height="294" key="GridCell.Tab.2.right/50.23.1630.1027@50.23.1630.1027" timestamp="1580943863854" />
+    <state width="1232" height="344" key="GridCell.Tab.2.right/51.23.1629.1027@51.23.1629.1027" timestamp="1579709829518" />
+    <state x="872" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580961576156">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state x="872" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/47.23.1633.1027@47.23.1633.1027" timestamp="1580961576156" />
+    <state x="986" y="374" width="672" height="676" key="search.everywhere.popup" timestamp="1580965754797">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state x="986" y="374" width="672" height="676" key="search.everywhere.popup/47.23.1633.1027@47.23.1633.1027" timestamp="1580965754797" />
+    <state x="986" y="374" width="670" height="676" key="search.everywhere.popup/48.23.1632.1027@48.23.1632.1027" timestamp="1580942608706" />
     <state x="987" y="374" width="670" height="676" key="search.everywhere.popup/50.23.1630.1027@50.23.1630.1027" timestamp="1579725693612" />
   </component>
 </project>
