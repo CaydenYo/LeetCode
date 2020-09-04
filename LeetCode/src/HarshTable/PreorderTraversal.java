@@ -70,4 +70,36 @@ public class PreorderTraversal {
         return res;
     }
 
+    // color
+    class ColorNode {
+        TreeNode node;
+        String color;
+
+        public ColorNode(TreeNode node,String color){
+            this.node = node;
+            this.color = color;
+        }
+    }
+    public List<Integer> preorderTraversal2(TreeNode root) {
+        if(root == null) return new ArrayList<Integer>();
+
+        List<Integer> res = new ArrayList<>();
+        Stack<ColorNode> stack = new Stack<>();
+        stack.push(new ColorNode(root,"white"));
+
+        while(!stack.empty()){
+            ColorNode cn = stack.pop();
+
+            if(cn.color.equals("white")){
+                if(cn.node.right != null) stack.push(new ColorNode(cn.node.right,"white"));
+                if(cn.node.left != null)stack.push(new ColorNode(cn.node.left,"white"));
+                stack.push(new ColorNode(cn.node,"gray"));
+            }else{
+                res.add(cn.node.val);
+            }
+        }
+
+        return res;
+    }
+
 }

@@ -2,37 +2,446 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e64fff6-a40d-4ccf-aa90-bd0eebed2dad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFS/CriticalConnections1192.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestPalidrome5CenterExpand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestPalindrome5DoubleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode/CopyRandomList128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode/CopyRandomList128O1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode/CopyRandomList138Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode/MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode/ReverseList206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/ClimbStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SwapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/UniqueBinarySearchTree95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort/KClosest973.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort/ReorderLogFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/IsValidParenthesis20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointers/Trap42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/AddBinary67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/AdvantageCount870.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ArrayNesting565.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ArrayPairSum561.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/CanPlaceFlowers605.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/CheckPossibility665.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ConstructArray667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/DiagonalTraversal498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/DominantIndex747.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/FairCandySwap888.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/FindDuplicates442.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/FindLengthOfLCIS674.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/FindMaxAverage643.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/FindPoisonedDuration495.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/FindShortestSubArray697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/FlipAndInvertImage832.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/GameOfLife289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/GenerateMatrix59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/GetRow119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/HasGroupsSizeX914.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ImageSmoother661.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/IsIdealPermutation775.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/IsMonotonic896.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/IsOneBitCharacter717.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/LargeGroupPositions830.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/LenLongestFibSubseq873.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/LongestCommonPrefix14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MajorityElement229.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MatrixReshape566.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MaxAreaOfIsland695.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MaxChunksToSorted769.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MaxDistToClosest849.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MaxProfit122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MaxProfit714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MaximumProduct628.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MaximumSwap670.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MinimumTotal120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MissingNumber268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/MyCalendar729.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/NumFriendRequest825.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/NumMatchingSubseq792.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/NumSubarrayBoundedMax795.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/NumSubarrayProductLessThanK713.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/PartitionDisjoint915.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/PivotIndex724.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/PlusOne66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/RemoveDuplicates80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ReverseString344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ReverseWords346.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/SetZeroes73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/SortArrayByParity905.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/SpiralMatrix54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/SumSubarrayMins907.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/SummaryRanges228.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ThirdMax414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/TriangleNumber611.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/TwoSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/OrangesRotting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/WidthOfBinaryTree662.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/CombinationSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/CombinationSum40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Combine77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/GenerateParentheses22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Permutstion46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/SubsetsWithDup90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/TotalNQueens51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/ArrangeCoins441.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/FindClosestElements658.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/FindDuplicate287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/FindRadius475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/FindRightInterval436.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/HIndex275.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/KthSmallest378.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Median4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/MinEatingSpeed875.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/NextGreatestLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/PeakIndexInMountainArray852.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Seach81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SearchMatrix74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SearchRange34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SmallestDistancePair719.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Solution497.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Solution528.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SplitArray410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/TimeMap981.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/TopVotedCandidate911.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/TwoSum167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/VersionControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BSTIterator173.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BalanceBST1382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BetterBSTIterator173.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BstToGst1038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/ContainsNearbyAlmostDuplicate220.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/DeleteInBST450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/InsertIntoBST701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/KthLargest703.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/KthLargestPriorityQueue703.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/LowestCommonAncestor235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/MaxSumBST1373.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/SearchBST700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/AddOneRow623.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/AllPossibleFBT894.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/BSTFromPreorder1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/BTreeGameWinningMove1145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/BinaryTreePaths257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/BuildTree105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/BuildTree106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/CBTInserter919.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Connect116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Connect117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/ConstructFromPrePost889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/ConstructMaximumBinaryTree654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/ConvertBST538.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/CountNodes222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/DeepestLeavesSum1302.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/DelNodes1110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/DiameterOfBinary543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/DistanceK863.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/DistributeCoins979.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindBottomLeftValue513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindDuplicateSubtrees652.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindElements1261.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindFrequentTreeSum508.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindMode501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindRedundantConnection684.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindSecondMinimumValue671.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindTarget653.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FindTilt563.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FlipEquiv951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/FlipMatchVoyage971.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/GetAllElements1305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/GetMinimumDifference530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/GetTargetCopy1379.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/IncreasingBST897.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/InsertIntoMaxTree998.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/IsBalanced110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/IsCompleteTree958.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/IsCousins993.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/IsSubtree572.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/IsValidBST98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/KthSmallest230.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/LargestValues515.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/LeafSimilar872.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/LevelOrder429.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/LongestUnivaluePath687.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/LongestZigzag1372.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/MCTFromLeafValues1130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/MaxAncestorDiff1026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/MaxProduct1339.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/MergeTrees617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/MinDepth111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Node1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/PathInZigZagTree1104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/PathSum112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/PathSum113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/PathSum437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Postorder590.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Preorder589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/PrintTree655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/PruneTree814.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/RemoveLeafNodes1325.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/RightSideView199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Rob337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Serialize297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Serialize449.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/SmallestFromLeaf988.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/SubTreeWithAllDeepest865.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/SumEvenGrandparents315.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/SumNumbers129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/SumOfLeftLeaves404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/SumRootToLeaf1022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Tree2str606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/TrimBST669.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/UniqueBST95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/UniqueBST96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/VerticalTraversal987.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/WidthOfBinaryTree662.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/ZigzagLevelOrder103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/inorderTraversal94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/lcaDeepestLeaves1123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/PathSum112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily/DivingBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily/Intersect350.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily/Massage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily/MaxProfit09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DistributeCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/FindLength718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LengthOfLIS300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinCostClimbingStairs746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Respace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/uniquePathsWithObstacles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HarshTable/FourSumCount454.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/AddTwoNumbers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/BuildTree105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/CalcEquation399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/CanJump55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/CanPartition416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/CoinChange322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/CombinationSum39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/ConvertBST538.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/CountBits338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/CountSubstring647.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/DailyTemperatures739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/DecodeString394.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/DetectCycle142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/DiameterOfBinaryTree543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/DifferentBST96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Exist79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/FindAnagrams438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/FindDisappearedNumbers448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/FindDuplicate287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/FindKthLargest215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/FindMedianSortedArrays4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/FindTargetSumWays494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/FindUnsortedSubarray581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Flatten114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/GenerateParenthesis22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/GetIntersectionNode160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/GroupAnagrams49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/HammingDistance461.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/HasCycle141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/InorderTraversal94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/InvertTree226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/IsMatch10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/IsPalindrome234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/IsSymmetric101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/IsValid20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/IsValidBST98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LRUCache146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LargestRectangleArea84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LeastInterval621.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LengthOfLIS300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LengthOfLongestSubstring3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LetterCombinations17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LevrlOrder102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LongestConsecutive128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LongestPalindrome5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LongestValidParentheses32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/LowestCommonAncestor236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MajorityElement169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaxArea11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaxCoins312.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaxDepth104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaxPathSum124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaxProduct152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaxProfit121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaxSlidingWindow239.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaxSubArray53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaximalRectangle85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MaximalSquare221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Merge56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MergeKLists23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MergeTrees617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MergeTwoLists21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MinDistance72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MinPathSum64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MinStack155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MinWindow76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/MoveZeroes283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/NextPermutation31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/NumIslands200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/NumSquare279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/PathSum437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Permute46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/ProductExceptSelf238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/ReconstructQueue406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/RemoveInvalidParentheses301.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/RemoveNthFromEnd19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/ReverseList206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Rob198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Rob337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Rotate48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Search33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/SearchMatrix240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/SearchRange34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Serialize297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/SingleNumber136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/SortColors75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/SortList148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/SubSets78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/SubarraySum560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/TopKFrequent347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Trap42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/TreeSum15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Trie208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/TwoSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/UniquePaths62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/WordBreak139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/canFinish207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/climbStairs70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/AddTwoNumbers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/AddTwoNumbers445.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DeleteDuplicates82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DeleteDuplicates83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DeleteNode237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DetectCycle142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Flatten430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/GetDecimalValue1290.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/GetIntersectionNode160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/HasCycle141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertionSortList147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/IsPalindrome234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/IsSubPath1367.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/MergeKLists23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/MergeTwoLists21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/MiddleNode876.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/MyLinkedList707.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/NextLargerNodes1019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/NumComponents817.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/OddEvenList328.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Partition86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveElements203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveNthFromEnd19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveZeroSumSublists1171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReorderList143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReverseBetween92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReverseKGroup25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReverseList206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RotateList61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SortList148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SortedListToBST109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SplitListToParts725.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SwapPairs24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/AllPossibleFBT894.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/BuildTree105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/CanPartitionKSubsets698.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/ConvertBiNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fib509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Hanota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/KthGrammar779.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/LargestRectangleArea84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/LongestUnivaluePath687.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MinDiffInBST783.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MyPow50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/NumWays70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RangeSumBST938.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SearchMatrix240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Tribonacci1137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/ValidTicTacToe794.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/IsSubsequence392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/MaxConsecutiveOnes485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/MinSubArrayLen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/RemoveZeroes283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/TwoSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/CanMakeArithmeticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/ContainsPattern204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/CountGoodTriplets200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/CountPairs199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/CountSubTrees198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/FindKthBit201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/GetMaxLen204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/GetWinner200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/MakeGood201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/MaxCoins203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/MaxNonOverlapping201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/MaxProbability197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/MinFlips199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/MinOperations202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/MostVisited203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/NumIdenticalPairs197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/NumSub197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/NumWaterBottles198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/RestoreString199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendContest/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/LengthOfLongestSubstring3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/LengthOfLongestSubstring3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/UnionFind/NumIslands200$UnionFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/UnionFind/NumIslands200.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoPointers/LengthOfLongestSubstring3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/LengthOfLongestSubstring3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/FindMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/FindMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/FindMin2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/IsPerfectSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/IsPerfectSquare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/MyPow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/MySqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch/SearchInsert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DFS/IsSameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/DFS/IsSameTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DFS/IsValidBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/DFS/IsValidBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DFS/SortedArrayToBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DFS/SortedListToBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/InorderTraversal$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/InorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/Intersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/Intersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/IsValidSuduku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/PostorderTraversal$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/PostorderTraversal$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/PostorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/PostorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/PreorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/HarshTable/PreorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode/ReverseList206.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/ReverseList206.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Recursion/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Recursion/PascalTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/StrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/StrStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/ThreeSum15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/ThreeSum15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TwoPointers/removeDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/FindMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/FindMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/FindMin2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/FindMin154.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/FindPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/FindPeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/IsPerfectSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/IsPerfectSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/MyPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/MyPow50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/MySqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/MySqrt69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/SearchInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/SearchInsert35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/IsSameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/IsSameTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/IsValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/IsValidBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/SortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/SortedArrayToBST108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/SortedListToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/SortedListToBST109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HarshTable/InorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HarshTable/InorderTraversal94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HarshTable/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HarshTable/Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HarshTable/IsValidSuduku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HarshTable/IsValidSuduku36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HarshTable/PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HarshTable/PostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HarshTable/PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HarshTable/PreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListNode/ReverseList206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode/ReverseList206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/UniqueBinarySearchTree95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/UniqueBinarySearchTree95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/StrStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/ThreeSum15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/ThreeSum15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/removeDuplicates26.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="231" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,24 +461,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PascalTriangle">
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListNode.AddTwoNumbers" />
+  <component name="RunManager" selected="Application.PartitionDisjoint915">
+    <configuration name="GetMaxLen204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekendContest.GetMaxLen204" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListNode.*" />
+          <option name="PATTERN" value="WeekendContest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +491,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsValidParenthesis20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.IsValidParenthesis20" />
+    <configuration name="IsOneBitCharacter717" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAndString.IsOneBitCharacter717" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="ArrayAndString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +504,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListNode.MergeTwoLists" />
+    <configuration name="MinCostClimbingStairs746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.MinCostClimbingStairs746" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListNode.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +517,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.PascalTriangle" />
+    <configuration name="PartitionDisjoint915" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAndString.PartitionDisjoint915" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="ArrayAndString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +530,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.SwapPairs" />
+    <configuration name="SortArrayByParity905" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAndString.SortArrayByParity905" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="ArrayAndString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +545,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PascalTriangle" />
-        <item itemvalue="Application.SwapPairs" />
-        <item itemvalue="Application.MergeTwoLists" />
-        <item itemvalue="Application.IsValidParenthesis20" />
-        <item itemvalue="Application.AddTwoNumbers" />
+        <item itemvalue="Application.PartitionDisjoint915" />
+        <item itemvalue="Application.SortArrayByParity905" />
+        <item itemvalue="Application.GetMaxLen204" />
+        <item itemvalue="Application.MinCostClimbingStairs746" />
+        <item itemvalue="Application.IsOneBitCharacter717" />
       </list>
     </recent_temporary>
   </component>
@@ -172,144 +586,315 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="901" y="299" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1579121572299">
-      <screen x="48" y="23" width="1632" height="1027" />
+    <state x="1390" y="815" key="#com.intellij.ide.util.MemberChooser" timestamp="1594767560730">
+      <screen x="0" y="23" width="2560" height="1359" />
     </state>
-    <state x="901" y="299" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/48.23.1632.1027@48.23.1632.1027" timestamp="1579121572299" />
-    <state width="1232" height="277" key="GridCell.Tab.0.bottom" timestamp="1581691000114">
-      <screen x="50" y="23" width="1630" height="1027" />
+    <state x="1390" y="815" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1359@0.23.2560.1359" timestamp="1594767560730" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom" timestamp="1599156834643">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="190" key="GridCell.Tab.0.bottom/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658461" />
-    <state width="1232" height="294" key="GridCell.Tab.0.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943585" />
-    <state width="1232" height="344" key="GridCell.Tab.0.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110516" />
-    <state width="1232" height="277" key="GridCell.Tab.0.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1581691000114" />
-    <state width="1232" height="251" key="GridCell.Tab.0.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614756" />
-    <state width="1232" height="160" key="GridCell.Tab.0.bottom/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963103" />
-    <state width="1232" height="277" key="GridCell.Tab.0.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1581561014632" />
-    <state width="1232" height="294" key="GridCell.Tab.0.bottom/60.23.1620.1027@60.23.1620.1027" timestamp="1581267752120" />
-    <state width="1232" height="277" key="GridCell.Tab.0.center" timestamp="1581691000113">
-      <screen x="50" y="23" width="1630" height="1027" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156834643" />
+    <state width="1638" height="327" key="GridCell.Tab.0.bottom/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125578" />
+    <state width="1638" height="413" key="GridCell.Tab.0.bottom/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976562874" />
+    <state width="1766" height="196" key="GridCell.Tab.0.bottom/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263569382" />
+    <state width="1764" height="159" key="GridCell.Tab.0.bottom/0.23.1680.969@0.23.1680.969" timestamp="1596178639350" />
+    <state width="1525" height="78" key="GridCell.Tab.0.bottom/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006580" />
+    <state width="1766" height="196" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015306" />
+    <state width="1334" height="186" key="GridCell.Tab.0.bottom/53.23.1627.1027@53.23.1627.1027" timestamp="1591050155096" />
+    <state width="1334" height="273" key="GridCell.Tab.0.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314871" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center" timestamp="1599156834641">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="190" key="GridCell.Tab.0.center/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658459" />
-    <state width="1232" height="294" key="GridCell.Tab.0.center/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943585" />
-    <state width="1232" height="344" key="GridCell.Tab.0.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
-    <state width="1232" height="277" key="GridCell.Tab.0.center/50.23.1630.1027@50.23.1630.1027" timestamp="1581691000113" />
-    <state width="1232" height="251" key="GridCell.Tab.0.center/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614756" />
-    <state width="1232" height="160" key="GridCell.Tab.0.center/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963102" />
-    <state width="1232" height="277" key="GridCell.Tab.0.center/55.23.1625.1027@55.23.1625.1027" timestamp="1581561014631" />
-    <state width="1232" height="294" key="GridCell.Tab.0.center/60.23.1620.1027@60.23.1620.1027" timestamp="1581267752120" />
-    <state width="1232" height="277" key="GridCell.Tab.0.left" timestamp="1581691000113">
-      <screen x="50" y="23" width="1630" height="1027" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156834641" />
+    <state width="1638" height="327" key="GridCell.Tab.0.center/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125577" />
+    <state width="1638" height="413" key="GridCell.Tab.0.center/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976562871" />
+    <state width="1766" height="196" key="GridCell.Tab.0.center/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263569380" />
+    <state width="1764" height="159" key="GridCell.Tab.0.center/0.23.1680.969@0.23.1680.969" timestamp="1596178639349" />
+    <state width="1525" height="78" key="GridCell.Tab.0.center/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006578" />
+    <state width="1766" height="196" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015306" />
+    <state width="1334" height="186" key="GridCell.Tab.0.center/53.23.1627.1027@53.23.1627.1027" timestamp="1591050155096" />
+    <state width="1334" height="273" key="GridCell.Tab.0.center/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314871" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left" timestamp="1599156834639">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="190" key="GridCell.Tab.0.left/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658458" />
-    <state width="1232" height="294" key="GridCell.Tab.0.left/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943584" />
-    <state width="1232" height="344" key="GridCell.Tab.0.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
-    <state width="1232" height="277" key="GridCell.Tab.0.left/50.23.1630.1027@50.23.1630.1027" timestamp="1581691000113" />
-    <state width="1232" height="251" key="GridCell.Tab.0.left/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614755" />
-    <state width="1232" height="160" key="GridCell.Tab.0.left/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963102" />
-    <state width="1232" height="277" key="GridCell.Tab.0.left/55.23.1625.1027@55.23.1625.1027" timestamp="1581561014630" />
-    <state width="1232" height="294" key="GridCell.Tab.0.left/60.23.1620.1027@60.23.1620.1027" timestamp="1581267752119" />
-    <state width="1232" height="277" key="GridCell.Tab.0.right" timestamp="1581691000114">
-      <screen x="50" y="23" width="1630" height="1027" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156834639" />
+    <state width="1638" height="327" key="GridCell.Tab.0.left/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125576" />
+    <state width="1638" height="413" key="GridCell.Tab.0.left/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976562867" />
+    <state width="1766" height="196" key="GridCell.Tab.0.left/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263569379" />
+    <state width="1764" height="159" key="GridCell.Tab.0.left/0.23.1680.969@0.23.1680.969" timestamp="1596178639348" />
+    <state width="1525" height="78" key="GridCell.Tab.0.left/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006578" />
+    <state width="1766" height="196" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015306" />
+    <state width="1334" height="186" key="GridCell.Tab.0.left/53.23.1627.1027@53.23.1627.1027" timestamp="1591050155095" />
+    <state width="1334" height="273" key="GridCell.Tab.0.left/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314870" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right" timestamp="1599156834642">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="190" key="GridCell.Tab.0.right/44.23.1636.1027@44.23.1636.1027" timestamp="1580164658460" />
-    <state width="1232" height="294" key="GridCell.Tab.0.right/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943585" />
-    <state width="1232" height="344" key="GridCell.Tab.0.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110515" />
-    <state width="1232" height="277" key="GridCell.Tab.0.right/50.23.1630.1027@50.23.1630.1027" timestamp="1581691000114" />
-    <state width="1232" height="251" key="GridCell.Tab.0.right/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614756" />
-    <state width="1232" height="160" key="GridCell.Tab.0.right/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963103" />
-    <state width="1232" height="277" key="GridCell.Tab.0.right/55.23.1625.1027@55.23.1625.1027" timestamp="1581561014631" />
-    <state width="1232" height="294" key="GridCell.Tab.0.right/60.23.1620.1027@60.23.1620.1027" timestamp="1581267752120" />
-    <state width="1232" height="251" key="GridCell.Tab.1.bottom" timestamp="1581542963085">
-      <screen x="53" y="23" width="1627" height="1027" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156834642" />
+    <state width="1638" height="327" key="GridCell.Tab.0.right/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125578" />
+    <state width="1638" height="413" key="GridCell.Tab.0.right/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976562873" />
+    <state width="1766" height="196" key="GridCell.Tab.0.right/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263569381" />
+    <state width="1764" height="159" key="GridCell.Tab.0.right/0.23.1680.969@0.23.1680.969" timestamp="1596178639349" />
+    <state width="1525" height="78" key="GridCell.Tab.0.right/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006580" />
+    <state width="1766" height="196" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015306" />
+    <state width="1334" height="186" key="GridCell.Tab.0.right/53.23.1627.1027@53.23.1627.1027" timestamp="1591050155096" />
+    <state width="1334" height="273" key="GridCell.Tab.0.right/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314871" />
+    <state width="1878" height="66" key="GridCell.Tab.1.bottom" timestamp="1599156484087">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="294" key="GridCell.Tab.1.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943587" />
-    <state width="1232" height="344" key="GridCell.Tab.1.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110518" />
-    <state width="1232" height="294" key="GridCell.Tab.1.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864298" />
-    <state width="1232" height="251" key="GridCell.Tab.1.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614758" />
-    <state width="1232" height="251" key="GridCell.Tab.1.bottom/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963085" />
-    <state width="1232" height="294" key="GridCell.Tab.1.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1581107637639" />
-    <state width="1232" height="294" key="GridCell.Tab.1.bottom/60.23.1620.1027@60.23.1620.1027" timestamp="1581267752287" />
-    <state width="1232" height="251" key="GridCell.Tab.1.center" timestamp="1581542963085">
-      <screen x="53" y="23" width="1627" height="1027" />
+    <state width="1878" height="66" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156484087" />
+    <state width="1638" height="327" key="GridCell.Tab.1.bottom/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125766" />
+    <state width="1638" height="413" key="GridCell.Tab.1.bottom/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976563080" />
+    <state width="1766" height="107" key="GridCell.Tab.1.bottom/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263377882" />
+    <state width="1528" height="34" key="GridCell.Tab.1.bottom/0.23.1680.969@0.23.1680.969" timestamp="1596178639253" />
+    <state width="1525" height="78" key="GridCell.Tab.1.bottom/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006795" />
+    <state width="1832" height="310" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015289" />
+    <state width="1334" height="270" key="GridCell.Tab.1.bottom/53.23.1627.1027@53.23.1627.1027" timestamp="1591049779663" />
+    <state width="1334" height="273" key="GridCell.Tab.1.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314873" />
+    <state width="1878" height="66" key="GridCell.Tab.1.center" timestamp="1599156484086">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="294" key="GridCell.Tab.1.center/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943586" />
-    <state width="1232" height="344" key="GridCell.Tab.1.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110517" />
-    <state width="1232" height="294" key="GridCell.Tab.1.center/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864297" />
-    <state width="1232" height="251" key="GridCell.Tab.1.center/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614757" />
-    <state width="1232" height="251" key="GridCell.Tab.1.center/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963085" />
-    <state width="1232" height="294" key="GridCell.Tab.1.center/55.23.1625.1027@55.23.1625.1027" timestamp="1581107637638" />
-    <state width="1232" height="294" key="GridCell.Tab.1.center/60.23.1620.1027@60.23.1620.1027" timestamp="1581267752286" />
-    <state width="1232" height="251" key="GridCell.Tab.1.left" timestamp="1581542963084">
-      <screen x="53" y="23" width="1627" height="1027" />
+    <state width="1878" height="66" key="GridCell.Tab.1.center/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156484086" />
+    <state width="1638" height="327" key="GridCell.Tab.1.center/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125766" />
+    <state width="1638" height="413" key="GridCell.Tab.1.center/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976563079" />
+    <state width="1766" height="107" key="GridCell.Tab.1.center/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263377881" />
+    <state width="1528" height="34" key="GridCell.Tab.1.center/0.23.1680.969@0.23.1680.969" timestamp="1596178639252" />
+    <state width="1525" height="78" key="GridCell.Tab.1.center/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006794" />
+    <state width="1832" height="310" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015289" />
+    <state width="1334" height="270" key="GridCell.Tab.1.center/53.23.1627.1027@53.23.1627.1027" timestamp="1591049779662" />
+    <state width="1334" height="273" key="GridCell.Tab.1.center/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314872" />
+    <state width="1878" height="66" key="GridCell.Tab.1.left" timestamp="1599156484085">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="294" key="GridCell.Tab.1.left/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943586" />
-    <state width="1232" height="344" key="GridCell.Tab.1.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110516" />
-    <state width="1232" height="294" key="GridCell.Tab.1.left/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864296" />
-    <state width="1232" height="251" key="GridCell.Tab.1.left/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614757" />
-    <state width="1232" height="251" key="GridCell.Tab.1.left/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963084" />
-    <state width="1232" height="294" key="GridCell.Tab.1.left/55.23.1625.1027@55.23.1625.1027" timestamp="1581107637637" />
-    <state width="1232" height="294" key="GridCell.Tab.1.left/60.23.1620.1027@60.23.1620.1027" timestamp="1581267752286" />
-    <state width="1232" height="251" key="GridCell.Tab.1.right" timestamp="1581542963085">
-      <screen x="53" y="23" width="1627" height="1027" />
+    <state width="1878" height="66" key="GridCell.Tab.1.left/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156484085" />
+    <state width="1638" height="327" key="GridCell.Tab.1.left/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125765" />
+    <state width="1638" height="413" key="GridCell.Tab.1.left/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976563079" />
+    <state width="1766" height="107" key="GridCell.Tab.1.left/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263377880" />
+    <state width="1528" height="34" key="GridCell.Tab.1.left/0.23.1680.969@0.23.1680.969" timestamp="1596178639252" />
+    <state width="1525" height="78" key="GridCell.Tab.1.left/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006794" />
+    <state width="1832" height="310" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015289" />
+    <state width="1334" height="270" key="GridCell.Tab.1.left/53.23.1627.1027@53.23.1627.1027" timestamp="1591049779662" />
+    <state width="1334" height="273" key="GridCell.Tab.1.left/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314872" />
+    <state width="1878" height="66" key="GridCell.Tab.1.right" timestamp="1599156484087">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="294" key="GridCell.Tab.1.right/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943586" />
-    <state width="1232" height="344" key="GridCell.Tab.1.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110517" />
-    <state width="1232" height="294" key="GridCell.Tab.1.right/50.23.1630.1027@50.23.1630.1027" timestamp="1580943864297" />
-    <state width="1232" height="251" key="GridCell.Tab.1.right/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614757" />
-    <state width="1232" height="251" key="GridCell.Tab.1.right/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963085" />
-    <state width="1232" height="294" key="GridCell.Tab.1.right/55.23.1625.1027@55.23.1625.1027" timestamp="1581107637638" />
-    <state width="1232" height="294" key="GridCell.Tab.1.right/60.23.1620.1027@60.23.1620.1027" timestamp="1581267752287" />
-    <state width="1232" height="251" key="GridCell.Tab.2.bottom" timestamp="1581542963087">
-      <screen x="53" y="23" width="1627" height="1027" />
+    <state width="1878" height="66" key="GridCell.Tab.1.right/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156484087" />
+    <state width="1638" height="327" key="GridCell.Tab.1.right/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125766" />
+    <state width="1638" height="413" key="GridCell.Tab.1.right/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976563080" />
+    <state width="1766" height="107" key="GridCell.Tab.1.right/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263377881" />
+    <state width="1528" height="34" key="GridCell.Tab.1.right/0.23.1680.969@0.23.1680.969" timestamp="1596178639252" />
+    <state width="1525" height="78" key="GridCell.Tab.1.right/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006795" />
+    <state width="1832" height="310" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015289" />
+    <state width="1334" height="270" key="GridCell.Tab.1.right/53.23.1627.1027@53.23.1627.1027" timestamp="1591049779662" />
+    <state width="1334" height="273" key="GridCell.Tab.1.right/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314872" />
+    <state width="1878" height="66" key="GridCell.Tab.2.bottom" timestamp="1599156484091">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="294" key="GridCell.Tab.2.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943589" />
-    <state width="1232" height="344" key="GridCell.Tab.2.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110520" />
-    <state width="1232" height="294" key="GridCell.Tab.2.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1580943863855" />
-    <state width="1232" height="251" key="GridCell.Tab.2.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614759" />
-    <state width="1232" height="251" key="GridCell.Tab.2.bottom/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963087" />
-    <state width="1232" height="294" key="GridCell.Tab.2.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1581107637641" />
-    <state width="1232" height="294" key="GridCell.Tab.2.bottom/60.23.1620.1027@60.23.1620.1027" timestamp="1581267751830" />
-    <state width="1232" height="251" key="GridCell.Tab.2.center" timestamp="1581542963086">
-      <screen x="53" y="23" width="1627" height="1027" />
+    <state width="1878" height="66" key="GridCell.Tab.2.bottom/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156484091" />
+    <state width="1638" height="327" key="GridCell.Tab.2.bottom/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125137" />
+    <state width="1638" height="413" key="GridCell.Tab.2.bottom/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976562637" />
+    <state width="1766" height="107" key="GridCell.Tab.2.bottom/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263377883" />
+    <state width="1528" height="34" key="GridCell.Tab.2.bottom/0.23.1680.969@0.23.1680.969" timestamp="1596178639254" />
+    <state width="1525" height="78" key="GridCell.Tab.2.bottom/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006269" />
+    <state width="1832" height="310" key="GridCell.Tab.2.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015293" />
+    <state width="1334" height="270" key="GridCell.Tab.2.bottom/53.23.1627.1027@53.23.1627.1027" timestamp="1591049779666" />
+    <state width="1334" height="273" key="GridCell.Tab.2.bottom/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314874" />
+    <state width="1878" height="66" key="GridCell.Tab.2.center" timestamp="1599156484089">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="294" key="GridCell.Tab.2.center/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943588" />
-    <state width="1232" height="344" key="GridCell.Tab.2.center/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110519" />
-    <state width="1232" height="294" key="GridCell.Tab.2.center/50.23.1630.1027@50.23.1630.1027" timestamp="1580943863854" />
-    <state width="1232" height="251" key="GridCell.Tab.2.center/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614758" />
-    <state width="1232" height="251" key="GridCell.Tab.2.center/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963086" />
-    <state width="1232" height="294" key="GridCell.Tab.2.center/55.23.1625.1027@55.23.1625.1027" timestamp="1581107637640" />
-    <state width="1232" height="294" key="GridCell.Tab.2.center/60.23.1620.1027@60.23.1620.1027" timestamp="1581267751829" />
-    <state width="1232" height="251" key="GridCell.Tab.2.left" timestamp="1581542963086">
-      <screen x="53" y="23" width="1627" height="1027" />
+    <state width="1878" height="66" key="GridCell.Tab.2.center/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156484089" />
+    <state width="1638" height="327" key="GridCell.Tab.2.center/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125136" />
+    <state width="1638" height="413" key="GridCell.Tab.2.center/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976562635" />
+    <state width="1766" height="107" key="GridCell.Tab.2.center/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263377883" />
+    <state width="1528" height="34" key="GridCell.Tab.2.center/0.23.1680.969@0.23.1680.969" timestamp="1596178639253" />
+    <state width="1525" height="78" key="GridCell.Tab.2.center/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006268" />
+    <state width="1832" height="310" key="GridCell.Tab.2.center/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015291" />
+    <state width="1334" height="270" key="GridCell.Tab.2.center/53.23.1627.1027@53.23.1627.1027" timestamp="1591049779665" />
+    <state width="1334" height="273" key="GridCell.Tab.2.center/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314873" />
+    <state width="1878" height="66" key="GridCell.Tab.2.left" timestamp="1599156484088">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="294" key="GridCell.Tab.2.left/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943588" />
-    <state width="1232" height="344" key="GridCell.Tab.2.left/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110518" />
-    <state width="1232" height="294" key="GridCell.Tab.2.left/50.23.1630.1027@50.23.1630.1027" timestamp="1580943863854" />
-    <state width="1232" height="251" key="GridCell.Tab.2.left/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614758" />
-    <state width="1232" height="251" key="GridCell.Tab.2.left/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963086" />
-    <state width="1232" height="294" key="GridCell.Tab.2.left/55.23.1625.1027@55.23.1625.1027" timestamp="1581107637640" />
-    <state width="1232" height="294" key="GridCell.Tab.2.left/60.23.1620.1027@60.23.1620.1027" timestamp="1581267751829" />
-    <state width="1232" height="251" key="GridCell.Tab.2.right" timestamp="1581542963087">
-      <screen x="53" y="23" width="1627" height="1027" />
+    <state width="1878" height="66" key="GridCell.Tab.2.left/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156484088" />
+    <state width="1638" height="327" key="GridCell.Tab.2.left/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125135" />
+    <state width="1638" height="413" key="GridCell.Tab.2.left/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976562635" />
+    <state width="1766" height="107" key="GridCell.Tab.2.left/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263377882" />
+    <state width="1528" height="34" key="GridCell.Tab.2.left/0.23.1680.969@0.23.1680.969" timestamp="1596178639253" />
+    <state width="1525" height="78" key="GridCell.Tab.2.left/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006267" />
+    <state width="1832" height="310" key="GridCell.Tab.2.left/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015290" />
+    <state width="1334" height="270" key="GridCell.Tab.2.left/53.23.1627.1027@53.23.1627.1027" timestamp="1591049779665" />
+    <state width="1334" height="273" key="GridCell.Tab.2.left/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314873" />
+    <state width="1878" height="66" key="GridCell.Tab.2.right" timestamp="1599156484090">
+      <screen x="2560" y="60" width="1920" height="1080" />
     </state>
-    <state width="1232" height="294" key="GridCell.Tab.2.right/47.23.1633.1027@47.23.1633.1027" timestamp="1580961943589" />
-    <state width="1232" height="344" key="GridCell.Tab.2.right/48.23.1632.1027@48.23.1632.1027" timestamp="1579831110519" />
-    <state width="1232" height="294" key="GridCell.Tab.2.right/50.23.1630.1027@50.23.1630.1027" timestamp="1580943863854" />
-    <state width="1232" height="251" key="GridCell.Tab.2.right/51.23.1629.1027@51.23.1629.1027" timestamp="1581529614759" />
-    <state width="1232" height="251" key="GridCell.Tab.2.right/53.23.1627.1027@53.23.1627.1027" timestamp="1581542963087" />
-    <state width="1232" height="294" key="GridCell.Tab.2.right/55.23.1625.1027@55.23.1625.1027" timestamp="1581107637641" />
-    <state width="1232" height="294" key="GridCell.Tab.2.right/60.23.1620.1027@60.23.1620.1027" timestamp="1581267751830" />
-    <state x="872" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580961576156">
-      <screen x="47" y="23" width="1633" height="1027" />
+    <state width="1878" height="66" key="GridCell.Tab.2.right/0.0.2560.1440/2560.60.1920.1080@2560.60.1920.1080" timestamp="1599156484090" />
+    <state width="1638" height="327" key="GridCell.Tab.2.right/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1598827125136" />
+    <state width="1638" height="413" key="GridCell.Tab.2.right/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1597976562636" />
+    <state width="1766" height="107" key="GridCell.Tab.2.right/0.23.1440.877/-2560.23.2560.1359@-2560.23.2560.1359" timestamp="1595263377883" />
+    <state width="1528" height="34" key="GridCell.Tab.2.right/0.23.1680.969@0.23.1680.969" timestamp="1596178639254" />
+    <state width="1525" height="78" key="GridCell.Tab.2.right/0.23.2560.1359@0.23.2560.1359" timestamp="1596770006268" />
+    <state width="1832" height="310" key="GridCell.Tab.2.right/0.23.2560.1417@0.23.2560.1417" timestamp="1595265015293" />
+    <state width="1334" height="270" key="GridCell.Tab.2.right/53.23.1627.1027@53.23.1627.1027" timestamp="1591049779665" />
+    <state width="1334" height="273" key="GridCell.Tab.2.right/55.23.1625.1027@55.23.1625.1027" timestamp="1591493314874" />
+    <state x="1163" y="495" key="RollbackChangesDialog" timestamp="1592170356124">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="872" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/47.23.1633.1027@47.23.1633.1027" timestamp="1580961576156" />
-    <state x="986" y="374" width="672" height="676" key="search.everywhere.popup" timestamp="1580965754797">
-      <screen x="47" y="23" width="1633" height="1027" />
+    <state x="1163" y="495" key="RollbackChangesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1592170356124" />
+    <state x="1171" y="328" key="SettingsEditor" timestamp="1592518049231">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="986" y="374" width="672" height="676" key="search.everywhere.popup/47.23.1633.1027@47.23.1633.1027" timestamp="1580965754797" />
-    <state x="986" y="374" width="670" height="676" key="search.everywhere.popup/48.23.1632.1027@48.23.1632.1027" timestamp="1580942608706" />
-    <state x="987" y="374" width="670" height="676" key="search.everywhere.popup/50.23.1630.1027@50.23.1630.1027" timestamp="1579725693612" />
+    <state x="1295" y="254" key="SettingsEditor/0.23.2560.1359@0.23.2560.1359" timestamp="1591739238289" />
+    <state x="1171" y="328" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1592518049231" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1596688572686">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.2560.1359@0.23.2560.1359" timestamp="1596688572686" />
+    <state x="681" y="425" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591131535773">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state x="681" y="425" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/55.23.1625.1027@55.23.1625.1027" timestamp="1591131535773" />
+    <state x="-1190" y="1037" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596055912024">
+      <screen x="-2560" y="-206" width="2560" height="1417" />
+    </state>
+    <state x="-1190" y="1037" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1596055912024" />
+    <state x="1513" y="57" width="1511" height="1212" key="dock-window-1" timestamp="1594930578702">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1513" y="57" width="1511" height="1212" key="dock-window-1/0.23.2560.1359@0.23.2560.1359" timestamp="1594930578702" />
+    <state x="1753" y="227" width="782" height="792" key="find.popup" timestamp="1596748841234">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1753" y="227" width="782" height="792" key="find.popup/0.23.2560.1359@0.23.2560.1359" timestamp="1596748841234" />
+    <state x="1753" y="236" width="782" height="825" key="find.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1593705169191" />
+    <state x="-1108" y="121" key="run.anything.popup" timestamp="1595625419037">
+      <screen x="-2560" y="-206" width="2560" height="1417" />
+    </state>
+    <state x="-1108" y="121" key="run.anything.popup/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1595625419037" />
+    <state x="1452" y="350" key="run.anything.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1592628639313" />
+    <state x="-647" y="215" width="1056" height="934" key="search.everywhere.popup" timestamp="1597688527153">
+      <screen x="-2560" y="-206" width="2560" height="1417" />
+    </state>
+    <state x="-647" y="215" width="1056" height="934" key="search.everywhere.popup/0.23.1440.819/-2560.-206.2560.1417@-2560.-206.2560.1417" timestamp="1597688527153" />
+    <state x="-647" y="198" width="1056" height="895" key="search.everywhere.popup/0.23.1440.877/-2560.-206.2560.1359@-2560.-206.2560.1359" timestamp="1596913565735" />
+    <state x="1913" y="427" width="1056" height="895" key="search.everywhere.popup/0.23.2560.1359@0.23.2560.1359" timestamp="1596256462707" />
+    <state x="1913" y="444" width="1056" height="934" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1593625483200" />
+    <state x="1269" y="328" width="670" height="676" key="search.everywhere.popup/55.23.1625.1027@55.23.1625.1027" timestamp="1591318899787" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/NextGreatestLetter.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoPointers/Merge.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/BuildTree106.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/IsValid20.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/NextPermutation31.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/SearchRange34.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/ConvertBST538.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeekendContest/NumWaterBottles198.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeekendContest/CountSubTrees198.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/InsertionSortList147.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/AddTwoNumbers445.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/AddOneRow623.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/LevelOrder429.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/GetAllElements1305.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WeekendContest/GetMaxLen204.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayAndString/SortArrayByParity905.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/LinkedList/GetDecimalValue1290.java</url>
+          <line>7</line>
+          <properties field="pow" class="LinkedList.GetDecimalValue1290" />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((BTreeGameWinningMove1145)this).node_map" custom="BinaryTree.BTreeGameWinningMove1145" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$BinaryTree_in_LeetCode.ic" NAME="BinaryTree in LeetCode Coverage Results" MODIFIED="1597341953042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BinaryTree.*</FILTER>
+    </SUITE>
   </component>
 </project>

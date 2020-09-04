@@ -1,5 +1,7 @@
 package DFS;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Stack;
 
 public class IsValidBST {
@@ -50,5 +52,35 @@ public class IsValidBST {
         }
         return true;
     }
+
+
+    public boolean isValidBST3(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        if(root == null){
+            return true;
+        }
+        helper(root, list);
+        int pre;
+        for(int i = 1;i < list.size();i++){
+            pre = list.get(i - 1);
+            if(pre >= list.get(i)){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    private void helper(TreeNode root, List<Integer> list){
+        if (root != null){
+            if (root.left != null){
+                helper(root.left, list);
+            }
+            list.add(root.val);
+            if (root.right != null){
+                helper(root.right, list);
+            }
+        }
+    }
+
 
 }

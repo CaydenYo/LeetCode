@@ -13,7 +13,7 @@ public class QuickSort {
         i = low;
         j = high;
         while (i < j){
-            // 当右边发现小于小于p的值时停止循环
+            // 当右边发现小于p的值时停止循环
             while (arr[j] >= p && i < j){
                 j--;
             }

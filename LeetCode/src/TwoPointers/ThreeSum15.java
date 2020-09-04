@@ -21,8 +21,10 @@ public class ThreeSum15 {
             if (nums[i] > 0){
                 return ls;
             }
-            if (i > 0 && nums[i] == nums[i - 1])
+            if (i > 0 && nums[i] == nums[i - 1]){
                 continue; // 跳过可能重复的答案
+            }
+
 
             int l = i + 1, r = len - 1, sum = 0 - nums[i];
             while (l < r) {

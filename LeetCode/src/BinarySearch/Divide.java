@@ -40,8 +40,8 @@ public class Divide {
         int result = 0;
         for (int i=31; i>=0;i--) {
             if ((t>>i)>=d) {//找出足够大的数2^n*divisor
-                result+=1<<i;//将结果加上2^n
-                t-=d<<i;//将被除数减去2^n*divisor
+                result += 1<<i;//将结果加上2^n
+                t -= d<<i;//将被除数减去2^n*divisor
             }
         }
         return negative ? -result : result;//符号相异取反

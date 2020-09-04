@@ -63,4 +63,65 @@ public class Intersection {
 
 
     }
+
+
+    // two pointers
+    public int[] intersection2(int[] nums1, int[] nums2) {
+
+        HashSet<Integer> set = new HashSet<>();
+        int p1 = 0; // nums1的指针
+        int p2 = 0; // nums2的指针
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
+
+        while (p1 < nums1.length && p2 < nums2.length) {
+            if (nums1[p1] < nums2[p2]) {
+                p1++;                   //需可保证下次比较的产生结果的可能性
+            } else if(nums1[p1] > nums2[p2]) {
+                p2++;
+            } else {
+                set.add(nums1[p1]);     //可作为交集的一部分
+                p1++;
+                p2++;
+            }
+        }
+        p1 = 0;
+        int[] resArr = new int[set.size()]; //set的元素即为交集
+        for(int n : set) {
+            resArr[p1++] = n;
+        }
+        return resArr;
+    }
+
+    // binary search
+    public int[] intersection3(int[] nums1, int[] nums2){
+        Arrays.sort(nums2);
+        HashSet<Integer> set = new HashSet<>();
+        for (int i = 0;i < nums1.length;i++){
+            if (binarySearch(nums2, nums1[i])){
+                set.add(nums1[i]);
+            }
+        }
+        int p = 0;
+        int[] res = new int[set.size()];
+        for (int item : set){
+            res[p++] = item;
+        }
+        return res;
+    }
+
+    private boolean binarySearch(int[] nums, int target){
+        int left = 0, right = nums.length - 1;
+        while (left < right){
+            int mid = left + (right - left);
+            if (nums[mid] < target){
+                left = mid + 1;
+            }else if (nums[mid] > target){
+                right = mid - 1;
+            }else {
+                return true;
+            }
+        }
+        return false;
+    }
 }

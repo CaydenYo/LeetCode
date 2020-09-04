@@ -16,7 +16,7 @@ public class StrStr {
                 i++;
                 j++;
             }else {
-                i = i - j - 1;
+                i = i - j + 1;
                 j = 0;
             }
         }
